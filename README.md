@@ -116,7 +116,7 @@ Supporting Power Query queries are stored as connections only, while the reporti
 ```text
 Online_Retail_Power_Query_Analysis.xlsx
 data/Online Retail.xlsx
-images/dashboard.png
+screenshots/dashboard.png
 README.md
 ```
 
