@@ -4,7 +4,7 @@ An Excel portfolio project that transforms a large online retail transaction dat
 
 The project demonstrates practical use of **Excel**, **Power Query**, data cleaning, validation, aggregation, and business reporting for e-commerce and back-office operations.
 
-![Online Retail Performance Dashboard](images/dashboard.png)
+![Online Retail Performance Dashboard](screenshots/dashboard.png)
 
 ## Project overview
 
